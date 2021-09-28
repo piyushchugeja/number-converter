@@ -15,7 +15,6 @@ public class binary {
         try {
             Integer hex=Integer.parseInt(bin, 2);
             return Integer.toHexString(hex);
-    
         }
         catch (Exception e) {
             throw e;
