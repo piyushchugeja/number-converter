@@ -1,13 +1,13 @@
-# Number Converter
+<h1 align="center"> Number Converter 🔢 </h1>
 A Java Applet based number converter which uses built in Java functions and a clean UI to convert a number from one radix to another.
 
-# Supported systems
+### Supported systems
 - Binary
 - Octal
 - Decimal
 - Hexadecimal
 
-# Preview
+### Preview
 ![image](https://user-images.githubusercontent.com/66639966/185669941-c51b4179-fc8e-4f27-9814-a01e43c3821c.png)
 ![image](https://user-images.githubusercontent.com/66639966/185669982-09678856-b1f1-4f7b-a6c8-c1972d0ef918.png)
 ![image](https://user-images.githubusercontent.com/66639966/185670034-8e24066b-5dcd-4171-9cba-3ff00fe220be.png)
