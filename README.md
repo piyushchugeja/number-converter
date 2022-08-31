@@ -1,5 +1,5 @@
 <h1 align="center"> Number Converter 🔢 </h1>
-A Java Applet based number converter which uses built in Java functions and a clean UI to convert a number from one radix to another.
+A Java Applet and Swing (both the codes have separate files) based number converter which uses built in Java functions and a clean UI to convert a number from one radix to another.
 
 ### Supported systems
 - Binary
